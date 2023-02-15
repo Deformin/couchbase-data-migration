@@ -1,0 +1,13 @@
+*/target/**
+/logs/
+/.gradle/
+/.classpath
+/.project
+/.idea
+/.settings
+*.iml
+*.iws
+*-local.yaml
+*.local.properties
+*.log
+/target/**
